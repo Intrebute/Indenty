@@ -1,0 +1,13 @@
+[package]
+name = "indenty"
+version = "0.1.0"
+authors = ["Intrebute <ke.seas.feliz@gmail.com>"]
+edition = "2018"
+
+[lib]
+name = "indenty"
+path = "src/lib.rs"
+
+[dependencies]
+vec1 = "1.4.0"
+pretty = "0.5.2"
